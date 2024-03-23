@@ -3,7 +3,7 @@ def permutation_generator(numbers_list):
     Generate all possible permutations of the elements in the given list.
 
     Args:
-        lst (list): The list of elements.
+        numbers_list (list): The list of elements.
 
     Yields:
         list: The next permutation.
